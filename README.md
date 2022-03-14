@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MizanSafin
+- 👋 Hi, I’m @Mizanur Rahman
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning Node JS
 - 💞️ I’m looking to collaborate on full stack development
