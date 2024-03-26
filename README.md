@@ -1,5 +1,8 @@
   <h2> Md. Mizanur Rahman</h2>
-
+---
+```html
+  <h2> Md. Mizanur Rahman</h2>
+```
 - 👋 Hi, I’m @Mizanur Rahman
 - 👀 I’m interested in Web and App development
 - 🌱 I’m currently learning MERN stack ,React Native and Next JS 
